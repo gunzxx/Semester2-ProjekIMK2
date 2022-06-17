@@ -6,5 +6,5 @@ $(document).ready(function(){
 	$(".register-block20.layout").click(function(){
 		//$(".header-block-item-layanan").hide();
 		window.location.href="index.html";
- });
+ }):
 });
