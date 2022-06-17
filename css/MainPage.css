@@ -1,3 +1,7 @@
+body{
+  width: 100%;
+}
+
 /* This source code is exported from pxCode, you can get more document from https://www.pxcode.io */
 .main-page-block {
   display: flex;
@@ -5883,7 +5887,7 @@
 .main-page-block42 {
   display: flex;
   flex-direction: column;
-  background-color: #00468b;
+  background-color: #4FD6F7;
 }
 .main-page-block42.layout {
   position: relative;
