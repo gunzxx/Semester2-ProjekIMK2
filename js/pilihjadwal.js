@@ -1,0 +1,17 @@
+$(document).ready(function(){
+	$(".pilih-jadwal-group6").click(function(){
+		$(this).toggleClass('pilih-jadwal-group6-clicked');
+ });
+	$(".pilih-jadwal-group7").click(function(){
+		$(this).toggleClass('pilih-jadwal-group7-clicked');
+ });
+	$(".pilih-jadwal-group10").click(function(){
+		$(this).toggleClass('pilih-jadwal-group10-clicked');
+ });
+	$(".pilih-jadwal-group11").click(function(){
+		$(this).toggleClass('pilih-jadwal-group11-clicked');
+ });
+	$(".pilih-jadwal-group12").click(function(){
+		$(this).toggleClass('pilih-jadwal-group12-clicked');
+ });
+});
