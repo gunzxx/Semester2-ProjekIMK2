@@ -636,6 +636,15 @@
   transition-duration: 0.3s;
   transition-property: filter;
 }
+.pilih-psikolog-group1-clicked{
+  display: flex;
+  flex-direction: column;
+  background-color: grey;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
 .pilih-psikolog-group2:hover {
   filter: drop-shadow(0 0 10px #00000080);
 }

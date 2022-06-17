@@ -1418,6 +1418,16 @@
   transition-duration: 0.3s;
   transition-property: filter;
 }
+.pilih-jadwal-group7-clicked{
+  display: flex;
+  flex-direction: column;
+  background-color: #ffe45c;
+  border: 1px solid black;
+  border-radius: 20.5px 20.5px 20.5px 20.5px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
 .pilih-jadwal-group7:hover {
   filter: drop-shadow(0 0 10px #00000080);
 }
@@ -1729,6 +1739,16 @@
   transition-duration: 0.3s;
   transition-property: filter;
 }
+.pilih-jadwal-group10-clicked{
+  display: flex;
+  flex-direction: column;
+  background-color: #ffe45c;
+  border: 1px solid black;
+  border-radius: 21px 21px 21px 21px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
 .pilih-jadwal-group10:hover {
   filter: drop-shadow(0 0 10px #00000080);
 }
@@ -1834,6 +1854,16 @@
   transition-duration: 0.3s;
   transition-property: filter;
 }
+.pilih-jadwal-group11-clicked{
+  display: flex;
+  flex-direction: column;
+  background-color: #ffe45c;
+  border: 1px solid black;
+  border-radius: 20.5px 20.5px 20.5px 20.5px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
 .pilih-jadwal-group11:hover {
   filter: drop-shadow(0 0 10px #00000080);
 }
@@ -1928,6 +1958,16 @@
   display: flex;
   flex-direction: column;
   background-color: #d1dbff;
+  border: 1px solid black;
+  border-radius: 21px 21px 21px 21px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-jadwal-group12-clicked{
+  display: flex;
+  flex-direction: column;
+  background-color: #ffe45c;
   border: 1px solid black;
   border-radius: 21px 21px 21px 21px;
   cursor: pointer;

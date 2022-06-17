@@ -2,7 +2,7 @@
 .user-profile-block {
   display: flex;
   flex-direction: column;
-  background-color: #52bbff;
+  background-color: #B8E3FF;
 }
 .user-profile-block.layout {
   position: relative;
@@ -459,7 +459,7 @@
 .user-profile-block4 {
   display: flex;
   flex-direction: column;
-  background-color: #fc8955;
+  background-color: #4FD6F7;
   box-shadow: -5px 4px 4px 0px rgba(0, 0, 0, 0.2470588235);
   border: 1px solid black;
   border-radius: 19px 19px 19px 19px;
@@ -553,7 +553,7 @@
 .user-profile-block5 {
   display: flex;
   flex-direction: column;
-  background-color: #fc8955;
+  background-color: #4FD6F7;
   box-shadow: -5px 4px 4px 0px rgba(0, 0, 0, 0.2470588235);
   border: 1px solid black;
   border-radius: 19px 19px 19px 19px;
@@ -758,7 +758,7 @@
 .user-profile-block6 {
   display: flex;
   flex-direction: column;
-  background-color: #fc5555;
+  background-color: #fc8955;
   box-shadow: -5px 4px 4px 0px rgba(0, 0, 0, 0.2470588235);
   border: 1px solid black;
   border-radius: 19px 19px 19px 19px;
