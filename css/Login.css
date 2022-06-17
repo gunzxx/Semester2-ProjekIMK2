@@ -982,6 +982,7 @@
   }
 }
 .login-subtitle.layout {
+  text-decoration: none;
   position: relative;
   height: -webkit-min-content;
   height: -moz-min-content;
