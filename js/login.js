@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$(".login-subtitle.layout").click(function(){
+	$(".login-block11.layout").click(function(){
 		//$(".header-block-item-layanan").hide();
 		window.location.href="MainPage.html";
  });

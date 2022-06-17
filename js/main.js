@@ -30,4 +30,13 @@ $(document).ready(function(){
 		//$(".header-block-item-layanan").hide();
 		window.location.href="userProfile.html";
  });
+	$(".main-page-block561.layout").click(function(){
+		var keluar = confirm("Apakah anda ingin Logout?");
+		if (keluar == true){
+			window.location.href="Register.html";
+		}
+		else{
+			return keluar;
+		}
+	});
 });

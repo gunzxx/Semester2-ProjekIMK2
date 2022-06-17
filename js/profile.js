@@ -17,8 +17,14 @@ $(document).ready(function(){
 		//$(".header-block-item-layanan").hide();
 		window.location.href="MainPage.html#contact-nih";
  });
-	$(".user-profile-medium-title3.layout").click(function(){
+	$(".user-profile-block6.layout").click(function(){
 		//$(".header-block-item-layanan").hide();
-		window.location.href="index.html";
+		var keluar = confirm("Apakah anda ingin Logout?");
+		if (keluar == true){
+			window.location.href="index.html";
+		}
+		else{
+			return keluar;
+		}
  });
 });
